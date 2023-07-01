@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#grid{
+    margin: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 460px;
+    height: 460px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
